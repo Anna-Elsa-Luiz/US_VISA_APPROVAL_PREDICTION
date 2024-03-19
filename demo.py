@@ -1,5 +1,6 @@
 
 
-from us_visa_approval.constants import * 
+from us_visa_approval.pipeline.training_pipeline import TrainPipeline
 
-print(COLLECTION_NAME)
+pipeline = TrainPipeline()
+pipeline.run_pipeline()
