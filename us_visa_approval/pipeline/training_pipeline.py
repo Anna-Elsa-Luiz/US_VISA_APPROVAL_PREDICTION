@@ -122,7 +122,7 @@ class TrainPipeline:
             raise USvisaException(e, sys)
 
 
-     def start_model_pusher(self, model_evaluation_artifact: ModelEvaluationArtifact) -> ModelPusherArtifact:
+    def start_model_pusher(self, model_evaluation_artifact: ModelEvaluationArtifact) -> ModelPusherArtifact:
         """
         This method of TrainPipeline class is responsible for starting model pushing
         """
