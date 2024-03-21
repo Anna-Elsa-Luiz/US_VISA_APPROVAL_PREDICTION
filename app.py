@@ -40,7 +40,7 @@ class DataForm:
         self.region_of_employment: Optional[str] = None
         self.prevailing_wage: Optional[str] = None
         self.unit_of_wage: Optional[str] = None
-        self.full_time_position: Optional[str] = None  # receive the data from the user 
+        self.full_time_position: Optional[str] = None
         
 
     async def get_usvisa_data(self):
