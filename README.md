@@ -4,20 +4,6 @@
     <meta charset="UTF-8">
     
     
-    <style>
-        /* Add your custom styles here */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h2 {
-            margin-bottom: 10px;
-        }
-        p {
-            margin-bottom: 20px;
-        }
-    </style>
 </head>
 <body>
 
@@ -40,7 +26,7 @@
 
 <h2>Complete flowchart of the components</h2>
 <p>
-    <https://github.com/Anna-Elsa-Luiz/US_VISA_APPROVAL_PREDICTION/blob/main/Documentation/Complete_flowchart.pdf!-- Add flowchart content here -->
+    https://github.com/Anna-Elsa-Luiz/US_VISA_APPROVAL_PREDICTION/blob/main/Documentation/Complete_flowchart.pdf
 </p>
 
 <h2>Workflow of each component</h2>
