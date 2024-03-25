@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VISA APPROVAL PREDICTION</title>
+    
+    
     <style>
         /* Add your custom styles here */
         body {
@@ -40,7 +40,7 @@
 
 <h2>Complete flowchart of the components</h2>
 <p>
-    <!-- Add flowchart content here -->
+    <https://github.com/Anna-Elsa-Luiz/US_VISA_APPROVAL_PREDICTION/blob/main/Documentation/Complete_flowchart.pdf!-- Add flowchart content here -->
 </p>
 
 <h2>Workflow of each component</h2>
